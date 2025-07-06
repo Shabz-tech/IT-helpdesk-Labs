@@ -41,10 +41,7 @@ A user reported that the shared network printer appeared “offline” on their 
 4. **Remove and Re-Add Printer**  
    - Navigated to Control Panel > Devices and Printers  
    - Removed existing printer: HP LaserJet Pro M404dn on PRINTSRV01  
-   - Re-added shared printer manually:
-     ```
-     \\PRINTSRV01\HP_LaserJet_Pro_M404dn
-     ```
+   - Re-added shared printer manually: \\PRINTSRV01\HP_LaserJet_Pro_M404dn
    - Drivers installed successfully  
 
 5. **Test Print**  
