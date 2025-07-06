@@ -16,8 +16,8 @@ A user reported that the shared network printer appeared “offline” on their 
 - **Operating System:** Windows 10 Pro  
 - **Device:** Dell OptiPlex 7090 Desktop  
 - **Printer Affected:** HP LaserJet Pro M404dn (Network Shared via Print Server)  
-- **Printer Hostname/IP:** `FIN-PRN-01.australtech.local` / `10.0.5.25`  
-- **Print Server:** `PRINTSRV01.australtech.local`
+- **Printer Hostname/IP:** FIN-PRN-01.australtech.local / 10.0.5.25 
+- **Print Server:** PRINTSRV01.australtech.local
 
 ---
 
@@ -35,12 +35,12 @@ A user reported that the shared network printer appeared “offline” on their 
 
 3. **Network Connectivity Test**  
    - Remoted into Liam’s machine via Quick Assist  
-   - Ran `ping 10.0.5.25`  
+   - Ran ping 10.0.5.25  
    - All replies successful — printer reachable over network  
 
 4. **Remove and Re-Add Printer**  
    - Navigated to Control Panel > Devices and Printers  
-   - Removed existing printer: `HP LaserJet Pro M404dn on PRINTSRV01`  
+   - Removed existing printer: HP LaserJet Pro M404dn on PRINTSRV01  
    - Re-added shared printer manually:
      ```
      \\PRINTSRV01\HP_LaserJet_Pro_M404dn
