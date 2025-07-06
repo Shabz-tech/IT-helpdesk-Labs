@@ -3,7 +3,7 @@ Lab 1 – Windows OS: Basic User & System Support
 
 Lab Summary:
 ------------
-This lab simulates foundational Level 1 IT Help Desk tasks performed on Windows 11, including user account creation, system checks, disk cleanup, environment variable configuration, and Windows updates. Tasks are completed using both GUI and PowerShell to reflect real-world help desk flexibility. Screenshots, logs, and commands are documented to demonstrate technical capability for portfolio and resume use.
+This lab simulates foundational Level 1 IT Help Desk tasks performed on Windows 11, including user account creation, system checks, disk cleanup, environment variable configuration, and Windows updates. Tasks are completed using both GUI and PowerShell to reflect real-world help desk flexibility.
 
 Learning Objectives:
 --------------------
