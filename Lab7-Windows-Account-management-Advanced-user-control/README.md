@@ -1,4 +1,4 @@
-Lab 4 – Windows Account Management (Advanced User Control)
+Lab 7 – Windows Account Management (Advanced User Control)
 ===========================================================
 
 Lab Summary:
