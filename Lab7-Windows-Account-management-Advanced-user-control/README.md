@@ -64,7 +64,7 @@ TASK 6: Create Folder + Assign NTFS Permissions
 --------------------------------------------------
 Commands:
     New-Item -Path "C:\Users\testuser02-docs" -ItemType Directory
-    icacls "C:\Users\testuser02-docs" /grant testuser02:F
+    AND icacls "C:\Users\testuser02-docs" /grant testuser02:F
 
 [Screenshot](user-folder-permissions.png)
 
