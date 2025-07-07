@@ -54,13 +54,13 @@ A remote user was unable to connect to the company VPN using the built-in Window
 
 ---
 
-## ✅ Resolution Summary
+## Resolution Summary
 
 The VPN Error 720 was caused by corrupted WAN Miniport drivers or networking stack components on the client machine. Resetting the TCP/IP stack, Winsock catalog, and firewall policies restored the drivers and network configuration. After a reboot, the VPN connection succeeded without error.
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 
 - Effective user communication and remote troubleshooting  
 - VPN client and Windows networking diagnostics  
